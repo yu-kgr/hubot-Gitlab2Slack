@@ -1,3 +1,5 @@
+WIP: READMEはあとで置き換える
+
 # hubot-gitlab2slack
 
 hubot-gitlab2slack is a chat bot built on the [Hubot][hubot] framework. It was
