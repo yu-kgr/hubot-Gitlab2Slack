@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "commonjs",
+    "outDir": "./scripts/",
+    "rootDir": "./typescripts/",
+    "strict": true,
+    "esModuleInterop": true
+
+  },
+  "exclude": [
+    "node_modules"
+    ]
+}
