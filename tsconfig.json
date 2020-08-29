@@ -3,12 +3,13 @@
     "target": "ES2019",
     "module": "commonjs",
     "outDir": "./scripts/",
-    "rootDir": "./typescripts/",
+    "rootDir": "./src/",
     "strict": true,
     "esModuleInterop": true
 
   },
   "exclude": [
-    "node_modules"
-    ]
+    "node_modules",
+    "**/__tests__/*"
+  ]
 }
